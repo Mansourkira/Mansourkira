@@ -1,4 +1,4 @@
-# Hello, I'm Ben Mansour Mansour! 
+# Hello, I'm Mansour
 I'm a web developer passionate about creating innovative solutions.
 
 ## GitHub Stats
